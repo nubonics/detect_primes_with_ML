@@ -1,5 +1,6 @@
 # Detecting Prime integers with Machine Learning
 ### Results:
+    - Note: I thought this model was 90% accurate, it is NOT
     - 90% Accuracy
         - in predicting whether an integer is a prime number or not
 
